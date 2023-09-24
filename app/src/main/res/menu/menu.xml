@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myhome"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:id="@+id/mymap"
+        android:title="Map"
+        android:icon="@drawable/baseline_map_24"
+        />
+    <item
+        android:id="@+id/Calls"
+        android:title="Emcall"
+        android:icon="@drawable/baseline_call_24"
+        />
+
+    <item
+        android:id="@+id/Emrecord"
+        android:title="Emrecord"
+        android:icon="@drawable/baseline_emergency_recording_24"
+        />
+
+</menu>
