@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162280288509",
+    "project_id": "menubar-storesdata",
+    "storage_bucket": "menubar-storesdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162280288509:android:648fd85730f7130f4f0e94",
+        "android_client_info": {
+          "package_name": "com.example.menubar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd0LKdjrhoAC4_8L9YvGJr6nGyjTMFlaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

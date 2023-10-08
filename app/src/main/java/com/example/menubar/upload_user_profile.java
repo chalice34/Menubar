@@ -21,7 +21,10 @@ public class upload_user_profile extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_upload_user_profile);
+
         uploadImage=findViewById(R.id.uploadprofile);
+        e1=findViewById(R.id.username);
+        e2=findViewById(R.id.password);
 
 
 
